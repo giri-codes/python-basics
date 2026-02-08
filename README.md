@@ -1,43 +1,28 @@
-# 🐍 Python Hands-On Practice
+#  Python Basics – Hands-On Practice
 
-This repository contains my hands-on Python practice, focused on improving my coding skills through regular practice and problem-solving.
-
-The main goal of this repository is to build confidence in writing Python programs and develop a strong habit of daily coding.
+This repository contains my **hands-on Python practice notebooks** focused on mastering **core Python fundamentals** through practical coding.
 
 ---
 
 ## 📌 About This Repository
 
-- Regular coding practice
-- Problem-solving through hands-on implementation
-- Practice programs created during learning
-- Logical thinking and experimentation
-- Continuous improvement over time
+- Hands-on practice for Python basics  
+- Practice notebooks created during learning  
+- Focus on understanding syntax and logic  
+- Clean and simple practice examples  
 
 ---
 
 ## 🎯 Purpose
 
-- Improve coding confidence
-- Strengthen problem-solving skills
-- Practice writing clean and working code
-- Track my progress as a Python learner
-
----
-
-## 🚀 Learning Approach
-
-> Practice consistently  
-> Learn from mistakes  
-> Improve step by step
+- Build confidence in writing Python programs  
+- Strengthen problem-solving skills  
+- Practice writing clean and working code  
+- Maintain a clear record of Python fundamentals practice  
 
 ---
 
 ## 👨‍💻 Author
 
 **Gireesh (Giri)**  
-Aspiring Python Developer  
-
----
-
-⭐ This repository represents my continuous learning and practice journey.
+Aspiring Python Developer
