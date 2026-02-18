@@ -1,28 +1,37 @@
-#  Python Basics – Hands-On Practice
+# 🐍 Python Basics – Core Foundations
 
-This repository contains my **hands-on Python practice notebooks** focused on mastering **core Python fundamentals** through practical coding.
+This repository demonstrates structured hands-on practice of core Python fundamentals.
 
----
-
-## 📌 About This Repository
-
-- Hands-on practice for Python basics  
-- Practice notebooks created during learning  
-- Focus on understanding syntax and logic  
-- Clean and simple practice examples  
+It serves as the foundation layer for advanced topics including data analysis, machine learning, and backend logic development.
 
 ---
 
-## 🎯 Purpose
+## 📘 Core Concepts Covered
 
-- Build confidence in writing Python programs  
-- Strengthen problem-solving skills  
-- Practice writing clean and working code  
-- Maintain a clear record of Python fundamentals practice  
+- Variables & Data Types
+- Numbers & Type Casting
+- Strings & String Operations
+- Booleans & Operators
+- Lists, Tuples, Sets, Dictionaries
+- Conditional Statements (if/else, match)
+- Loops (for, while)
+- Functions & range()
+- Arrays & Iterators
+- Modules
+- Dates & Math Module
+- JSON Handling
+- Regular Expressions
+- Exception Handling (try/except)
+- None & Null concepts
 
 ---
 
-## 👨‍💻 Author
+## 🎯 Objective
 
-**Gireesh (Giri)**  
-Aspiring Python Developer
+Strengthen problem-solving ability and develop clean coding practices through structured Python fundamentals.
+
+---
+
+## 📂 Structure
+
+The repository contains 26 organized practice notebooks covering core Python topics in progressive order.
