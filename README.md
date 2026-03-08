@@ -1,4 +1,4 @@
-# 🐍 Python Basics – Core Foundations
+# Python Basics – Core Foundations
 
 This repository demonstrates structured hands-on practice of core Python fundamentals.
 
@@ -6,7 +6,7 @@ It serves as the foundation layer for advanced topics including data analysis, m
 
 ---
 
-## 📘 Core Concepts Covered
+## Core Concepts Covered
 
 - Variables & Data Types
 - Numbers & Type Casting
@@ -26,12 +26,12 @@ It serves as the foundation layer for advanced topics including data analysis, m
 
 ---
 
-## 🎯 Objective
+## Objective
 
 Strengthen problem-solving ability and develop clean coding practices through structured Python fundamentals.
 
 ---
 
-## 📂 Structure
+## Structure
 
 The repository contains 26 organized practice notebooks covering core Python topics in progressive order.
